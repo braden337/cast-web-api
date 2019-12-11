@@ -26,6 +26,7 @@
 		"google-auth-library": "0.10.0",
 		"google-tts-api": "0.0.4",
 		"http": "*",
+		"internal-ip": "^5.0.0",
 		"jsonfile": "*",
 		"mdns-cast-browser": ">1.0.2",
 		"minimist": "*",
